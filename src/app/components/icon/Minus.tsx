@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function icon() {
+export default function Minus() {
   return <div></div>;
 }
