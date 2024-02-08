@@ -1,4 +1,4 @@
-// 2/15 프로젝트시작
+// 2/10 프로젝트시작
 export default function HomePage() {
-  return <></>;
+  return <section></section>;
 }
